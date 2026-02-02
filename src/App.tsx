@@ -79,10 +79,11 @@ function App() {
       <div className="min-h-screen flex flex-col items-center justify-center p-4 relative">
         <div className="text-center w-full max-w-5xl mx-auto px-4">
           <div className="mb-16 space-y-6">
-            <h1 className="text-4xl sm:text-6xl md:text-7xl lg:text-8xl font-extrabold mb-4 drop-shadow-2xl">
+            <h1 className="flex flex-col gap-3 text-4xl sm:text-6xl md:text-7xl lg:text-8xl font-extrabold mb-4 drop-shadow-2xl">
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-red-600 via-pink-500 to-red-600 animate-gradient">
-                Валентинки с Комплиментами
+                Я хочу извиниться, Айлин
               </span>
+              <span className='bg-clip-text text-3xl text-transparent bg-gradient-to-r from-red-600 via-pink-500 to-red-600 animate-gradient'>С извинениями хочу выразить и то насколько я дорожу нашей дружбой </span>
             </h1>
           </div>
           
